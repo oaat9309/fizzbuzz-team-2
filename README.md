@@ -17,6 +17,6 @@
 ## 누가 참여했나요?
 
 박철연|방예서|조성일|차유나
---|:--:|:--:|--:
+--|:--:|:--:|--
 https://github.com/oaat9309 | https://github.com/aurpo1  | https://github.com/Seong1-Jo | https://github.com/sarasata3131  
 
